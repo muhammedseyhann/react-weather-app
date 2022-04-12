@@ -1,7 +1,7 @@
 <h1 align="center">React Weather App <img align="center" src="src/Components/icons/01d.svg" width="45"></h1>
 <p align="center">A Weather App Created With React</p>
 
-<h3 align="center"><a href="https://muhammedseyhann-react-weather-app.netlify.app" target="_blank">See Demo Here</a></h3>
+<h3 align="center"><a href="https://muhammedseyhann-react-weather-app.netlify.app" target="_blank" rel="noreferrer">See Demo Here</a></h3>
 
 <img align="center" src="./ss_light.png">
 
