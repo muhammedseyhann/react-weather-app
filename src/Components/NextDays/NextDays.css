@@ -1,0 +1,13 @@
+.next-days > * img {
+    width: 75px;
+}
+
+.next-days > * p {
+    font-size: 1.4rem;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .next-days > * img {
+        width: auto;
+    }
+}

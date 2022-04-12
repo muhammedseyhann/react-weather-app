@@ -1,0 +1,15 @@
+.icon-light {
+    color: rgba(83, 82, 82, 0.726);
+    font-size: 30px;
+}
+.icon-light:hover {
+    color: rgb(26, 24, 24);
+}
+
+.icon-dark {
+    color: rgb(136, 135, 135);
+    font-size: 30px;
+}
+.icon-dark:hover {
+    color: azure;
+}

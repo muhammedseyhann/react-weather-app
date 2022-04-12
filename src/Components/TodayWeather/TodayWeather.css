@@ -1,0 +1,45 @@
+img {
+    width: 85px;
+}
+
+#icon {
+    width: auto;
+}
+.province {
+    font-size: 3.25rem;
+}
+.date {
+    font-size: 1.1rem;
+}
+.temp {
+    font-size: 3.25rem;
+}
+.description {
+    font-size: 1.75rem;
+}
+.list {
+    border-radius: 25px;
+}
+.list-group-item {
+    background: unset;
+    color: unset;
+}
+.list-group-item > * span {
+    font-size: 1.35rem;
+}
+
+@media only screen and (max-width: 992px) {
+    img {
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .list-group-item > * span {
+        font-size: 1.25rem;
+    }
+    .list-group-item > * img {
+        min-width: 65px;
+        max-width: 85px;
+    }
+}
