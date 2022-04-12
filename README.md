@@ -24,4 +24,3 @@
 ## Contact
 
 -   [Linkedin](https://www.linkedin.com/in/muhammedseyhann/)
--   [muhammedseyhann@gmail.com](muhammedseyhann@gmail.com)
