@@ -20,3 +20,8 @@
 -   [axios](https://www.npmjs.com/package/axios/)
 -   [Weather Icons](https://bas.dev/projects/weather-icons)
 -   [Cities of JSON](https://gist.github.com/ozdemirburak/4821a26db048cc0972c1beee48a408de)
+
+## Contact
+
+-   [Linkedin](https://www.linkedin.com/in/muhammedseyhann/)
+-   [muhammedseyhann@gmail.com](muhammedseyhann@gmail.com)
