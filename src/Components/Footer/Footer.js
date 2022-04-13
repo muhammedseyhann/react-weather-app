@@ -10,14 +10,14 @@ function Footer() {
             <a
                 href="https://github.com/muhammedseyhann"
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
             >
                 <i className={`bi bi-github me-2 icon-${theme.name}`}></i>
             </a>
             <a
                 href="https://www.linkedin.com/in/muhammedseyhann/"
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
             >
                 <i className={`bi bi-linkedin ms-2 icon-${theme.name}`}></i>
             </a>
