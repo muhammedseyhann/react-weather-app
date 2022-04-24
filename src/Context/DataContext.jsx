@@ -38,7 +38,7 @@ const DataProvider = ({ children }) => {
     useEffect(() => {
         const fetchingData = async () => {
             await axios(
-                `https://api.openweathermap.org/data/2.5/onecall?lat=${province.latitude}&lon=${province.longitude}&exclude=current,minutely,hourly,alerts&units=metric&lang=tr&appid=4fcd5d19b6f5322f7b7117301d3edf94`
+                `https://api.openweathermap.org/data/2.5/onecall?lat=${province.latitude}&lon=${province.longitude}&exclude=current,minutely,hourly,alerts&units=metric&lang=tr&appid=${process.env.REACT_APP_API_KEY}`
             )
                 .then((res) => {
                     const days = res.data.daily;
